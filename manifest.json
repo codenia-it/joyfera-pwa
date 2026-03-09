@@ -11,30 +11,14 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://a2ae87a214bd4949a1151312bae6de70.cdn.bubble.io/cdn-cgi/image/w=128,h=,f=auto,dpr=1,fit=contain/f1740649162821x603518217113223600/J.png",
-      "type": "image/png",
-      "sizes": "128x128",
-      "isSquare": true,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 128,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "https://codenia-it.github.io/joyfera-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "https://a2ae87a214bd4949a1151312bae6de70.cdn.bubble.io/cdn-cgi/image/w=,h=,f=auto,dpr=1,fit=contain/f1743419129395x761775725856985700/IMG_6041 %281%29-min.png",
-      "type": "image/png",
-      "sizes": "1472x832",
-      "isSquare": false,
-      "isPng": true,
-      "isWebp": false,
-      "isJpg": false,
-      "width": 1472,
-      "is512x512": false,
-      "is256x256": false,
-      "is192x192": false
+      "src": "https://codenia-it.github.io/joyfera-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "id": "JoyFera.com"
